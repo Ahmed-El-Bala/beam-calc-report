@@ -39,4 +39,24 @@ streamlit run app.py
 
 Note: the free hosted app goes to sleep when unused. If you see a "wake up" button, it starts in about 30 seconds.
 
+## Screenshots
+**The app:** enter the beam and loads, get the lightest passing section instantly
+
+
+![App](screenshots/app.png)
+
+
+
+**Every section checked:** shows why the selected beam was chosen
+
+
+![Sections checked](screenshots/table.png)
+
+
+
+**Generated PDF calculation sheet**
+
+
+![Calc sheet](screenshots/pdf.png)
+
 Built by Ahmed El Bala, BEng Mechanical Engineering (University of Southampton), using Python with AI-assisted coding.
